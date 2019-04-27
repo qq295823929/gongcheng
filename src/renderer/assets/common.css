@@ -1,0 +1,71 @@
+html, body {
+    width: 100%;
+    height: 100%;
+    font-family: "Microsoft YaHei", 微软雅黑, "MicrosoftJhengHei", 华文细黑, STHeiti, MingLiu, Arial, sans-serif, -apple-system, BlinkMacSystemFont;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    /*font-size: 0.32rem;*/
+    background: #ffffff;
+    overflow: hidden;
+}
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+a {
+    color: #333333;
+    text-decoration: none;
+}
+
+ul li {
+    list-style: none;
+}
+
+.jy-btn{
+    height: 35px;
+    text-align: center;
+    line-height: 35px;
+    color: #000000;
+    background: #ffffff;
+    cursor: pointer;
+    border-radius: 3px;
+    transition: all 0.1s ease;
+    font-size: 16px;
+
+    /*float: left;*/
+    /*margin-right: 36px;*/
+    min-width: 92px;
+    padding: 0 18px;
+    display: inline-block;
+}
+.jy-btn-cancle{
+    border: 1px solid #aaaaaa;
+}
+.jy-btn-cancle:hover{
+    border: 1px solid #006cba;
+}
+
+
+
+.jy-btn:hover{
+    opacity: 0.8;
+    filter: alpha(opacity=80);
+    /*border-color: #0bb20c;*/
+}
+.jy-btn:active{
+    background: #ffffff;
+    transform: scale(0.95);
+}
+
+
+.jy-btn.jy-btn-danger{
+    background: #FF5722;
+    color: #ffffff;
+}
+.jy-btn.jy-btn-sure{
+    background: #1aa5d9;
+    color: #ffffff;
+}

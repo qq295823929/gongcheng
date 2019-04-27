@@ -1,0 +1,402 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c3b3e22f-1009-47e9-84ad-1af8897d019f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/renderer/assets/common.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/renderer/assets/login_pic.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/renderer/assets/project_inspection_iconfont/demo.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/renderer/assets/project_inspection_iconfont/demo_index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/renderer/assets/project_inspection_iconfont/iconfont.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/renderer/assets/project_inspection_iconfont/iconfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/renderer/assets/project_inspection_iconfont/iconfont.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/renderer/assets/project_inspection_iconfont/iconfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/renderer/assets/project_inspection_iconfont/iconfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/renderer/assets/project_inspection_iconfont/iconfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/renderer/assets/project_inspection_iconfont/iconfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/renderer/components/LandingPage/SystemInformation.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/renderer/components/Login.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/renderer/components/Menu/Menu.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/renderer/components/User/Usermanage.vue" afterDir="false" />
+      <change beforePath="H:/happy-chat/config/index.js" beforeDir="false" afterPath="H:/happy-chat/config/index.js" afterDir="false" />
+      <change beforePath="H:/happy-chat/package-lock.json" beforeDir="false" afterPath="H:/happy-chat/package-lock.json" afterDir="false" />
+      <change beforePath="H:/happy-chat/package.json" beforeDir="false" afterPath="H:/happy-chat/package.json" afterDir="false" />
+      <change beforePath="H:/happy-chat/src/App.vue" beforeDir="false" afterPath="H:/happy-chat/src/App.vue" afterDir="false" />
+      <change beforePath="H:/happy-chat/src/assets/common.css" beforeDir="false" afterPath="H:/happy-chat/src/assets/common.css" afterDir="false" />
+      <change beforePath="H:/happy-chat/src/assets/icon/demo_index.html" beforeDir="false" afterPath="H:/happy-chat/src/assets/icon/demo_index.html" afterDir="false" />
+      <change beforePath="H:/happy-chat/src/assets/icon/iconfont.css" beforeDir="false" afterPath="H:/happy-chat/src/assets/icon/iconfont.css" afterDir="false" />
+      <change beforePath="H:/happy-chat/src/assets/icon/iconfont.eot" beforeDir="false" afterPath="H:/happy-chat/src/assets/icon/iconfont.eot" afterDir="false" />
+      <change beforePath="H:/happy-chat/src/assets/icon/iconfont.js" beforeDir="false" afterPath="H:/happy-chat/src/assets/icon/iconfont.js" afterDir="false" />
+      <change beforePath="H:/happy-chat/src/assets/icon/iconfont.svg" beforeDir="false" afterPath="H:/happy-chat/src/assets/icon/iconfont.svg" afterDir="false" />
+      <change beforePath="H:/happy-chat/src/assets/icon/iconfont.ttf" beforeDir="false" afterPath="H:/happy-chat/src/assets/icon/iconfont.ttf" afterDir="false" />
+      <change beforePath="H:/happy-chat/src/assets/icon/iconfont.woff" beforeDir="false" afterPath="H:/happy-chat/src/assets/icon/iconfont.woff" afterDir="false" />
+      <change beforePath="H:/happy-chat/src/assets/icon/iconfont.woff2" beforeDir="false" afterPath="H:/happy-chat/src/assets/icon/iconfont.woff2" afterDir="false" />
+      <change beforePath="H:/happy-chat/src/assets/rem.js" beforeDir="false" afterPath="H:/happy-chat/src/assets/rem.js" afterDir="false" />
+      <change beforePath="H:/happy-chat/src/components/Home/Bottom.vue" beforeDir="false" afterPath="H:/happy-chat/src/components/Home/Bottom.vue" afterDir="false" />
+      <change beforePath="H:/happy-chat/src/components/Home/Home.vue" beforeDir="false" afterPath="H:/happy-chat/src/components/Home/Home.vue" afterDir="false" />
+      <change beforePath="H:/happy-chat/src/components/Login.vue" beforeDir="false" afterPath="H:/happy-chat/src/components/Login.vue" afterDir="false" />
+      <change beforePath="H:/happy-chat/src/components/Registe.vue" beforeDir="false" afterPath="H:/happy-chat/src/components/Registe.vue" afterDir="false" />
+      <change beforePath="H:/happy-chat/src/main.js" beforeDir="false" afterPath="H:/happy-chat/src/main.js" afterDir="false" />
+      <change beforePath="H:/happy-chat/src/router/index.js" beforeDir="false" afterPath="H:/happy-chat/src/router/index.js" afterDir="false" />
+      <change beforePath="H:/happy-chat/src/store/action.js" beforeDir="false" afterPath="H:/happy-chat/src/store/action.js" afterDir="false" />
+      <change beforePath="H:/happy-chat/src/store/getter.js" beforeDir="false" afterPath="H:/happy-chat/src/store/getter.js" afterDir="false" />
+      <change beforePath="H:/happy-chat/src/store/index.js" beforeDir="false" afterPath="H:/happy-chat/src/store/index.js" afterDir="false" />
+      <change beforePath="H:/happy-chat/src/store/mutation.js" beforeDir="false" afterPath="H:/happy-chat/src/store/mutation.js" afterDir="false" />
+      <change beforePath="H:/happy-chat/src/store/state.js" beforeDir="false" afterPath="H:/happy-chat/src/store/state.js" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/dist/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/renderer/components/LandingPage.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-150">
+              <caret line="6" column="38" lean-forward="true" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/renderer/App.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="775">
+              <caret line="31" column="18" selection-start-line="31" selection-start-column="18" selection-end-line="31" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/renderer/router/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="475">
+              <caret line="19" column="36" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="36" />
+              <folding>
+                <element signature="e#0#21#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/renderer/components/User/Usermanage.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="550">
+              <caret line="91" column="34" selection-start-line="91" selection-start-column="34" selection-end-line="91" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2">
+              <caret line="19" column="12" selection-start-line="19" selection-start-column="2" selection-end-line="19" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/renderer/main.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+              <folding>
+                <element signature="e#0#21#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/renderer/components/LandingPage/SystemInformation.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-400">
+              <caret line="2" column="31" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/renderer/components/Login.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="600">
+              <caret line="66" column="20" lean-forward="true" selection-start-line="66" selection-start-column="20" selection-end-line="66" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/renderer/assets/common.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="823">
+              <caret line="70" column="1" selection-start-line="70" selection-start-column="1" selection-end-line="70" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/renderer/components/Menu/Menu.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="25">
+              <caret line="1" column="47" selection-start-line="1" selection-start-column="47" selection-end-line="1" selection-end-column="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Vue Single File Component" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="H:/" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/renderer/components/menu/menu.vue" />
+        <option value="$PROJECT_DIR$/src/renderer/components/Menu/menu.vue" />
+        <option value="$PROJECT_DIR$/src/index.html" />
+        <option value="$PROJECT_DIR$/src/renderer/components/LandingPage/SystemInformation.vue" />
+        <option value="$PROJECT_DIR$/src/renderer/components/Longin.vue" />
+        <option value="$PROJECT_DIR$/src/renderer/assets/common.css" />
+        <option value="$PROJECT_DIR$/src/renderer/main.js" />
+        <option value="$PROJECT_DIR$/src/renderer/App.vue" />
+        <option value="$PROJECT_DIR$/src/renderer/router/index.js" />
+        <option value="$PROJECT_DIR$/src/renderer/components/Menu/Menu.vue" />
+        <option value="$PROJECT_DIR$/src/renderer/components/User/Usermanage.vue" />
+        <option value="$PROJECT_DIR$/src/main/index.js" />
+        <option value="$PROJECT_DIR$/src/renderer/components/Login.vue" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="width" value="1924" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="gongcheng" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gongcheng" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gongcheng" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gongcheng" type="462c0819:PsiDirectoryNode" />
+              <item name="dist" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gongcheng" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gongcheng" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gongcheng" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gongcheng" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="G:/GCXJ" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="G:\PhpStorm 2018.3.2\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="H:\gcxj\gongcheng\src\renderer\assets" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c3b3e22f-1009-47e9-84ad-1af8897d019f" name="Default Changelist" comment="" />
+      <created>1556281305688</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1556281305688</updated>
+      <workItem from="1556281308012" duration="9603000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="9603000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="npm" side_tool="true" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="TypeScript" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/index.dev.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/renderer/store/modules/index.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/renderer/store/modules/Counter.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/web/.gitkeep">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/_vue@2.6.10@vue/types/vue.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="39" column="2" selection-start-line="39" selection-start-column="2" selection-end-line="39" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="11" selection-start-line="5" selection-start-column="2" selection-end-line="10" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/renderer/assets/project_inspection_iconfont/demo.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/renderer/assets/common.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="823">
+          <caret line="70" column="1" selection-start-line="70" selection-start-column="1" selection-end-line="70" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/renderer/App.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="775">
+          <caret line="31" column="18" selection-start-line="31" selection-start-column="18" selection-end-line="31" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/renderer/router/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="19" column="36" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="36" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/renderer/components/User/Usermanage.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="91" column="34" selection-start-line="91" selection-start-column="34" selection-end-line="91" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/renderer/components/LandingPage.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-150">
+          <caret line="6" column="38" lean-forward="true" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2">
+          <caret line="19" column="12" selection-start-line="19" selection-start-column="2" selection-end-line="19" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/renderer/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/renderer/components/Menu/Menu.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="1" column="47" selection-start-line="1" selection-start-column="47" selection-end-line="1" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/renderer/components/LandingPage/SystemInformation.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-400">
+          <caret line="2" column="31" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/renderer/components/Login.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="66" column="20" lean-forward="true" selection-start-line="66" selection-start-column="20" selection-end-line="66" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
